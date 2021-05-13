@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Actividad", "Actividad.csproj", "{C5745C94-0851-4054-A251-8F097B8ECA07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToggleSwitch", "ToggleSwitch\ToggleSwitch\ToggleSwitch.csproj", "{49B88FFA-F02C-4709-BA65-9F8996444ECD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DB420ADC-2F5D-4B39-A6B6-2C660C2F003B}"
+	ProjectSection(SolutionItems) = preProject
+		Clases\RoundButton.cs = Clases\RoundButton.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5745C94-0851-4054-A251-8F097B8ECA07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5745C94-0851-4054-A251-8F097B8ECA07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5745C94-0851-4054-A251-8F097B8ECA07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5745C94-0851-4054-A251-8F097B8ECA07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49B88FFA-F02C-4709-BA65-9F8996444ECD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49B88FFA-F02C-4709-BA65-9F8996444ECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49B88FFA-F02C-4709-BA65-9F8996444ECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49B88FFA-F02C-4709-BA65-9F8996444ECD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0DFC5BF-831A-4645-8F12-1DF2886D7E6E}
+	EndGlobalSection
+EndGlobal
